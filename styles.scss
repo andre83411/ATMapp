@@ -1,0 +1,40 @@
+    body {
+      margin-top: 5%;
+      margin-left: 15%;
+      margin-right: 15%;
+      margin-bottom: 25;
+      border: solid rgb(93, 93, 233) 5px;
+      background-color: rgba(237, 237, 243, 0.296);
+      border-radius: 15%;
+    }
+    h1 {
+      margin-top: 5%;
+      text-align: center;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: rgb(255, 85, 0);
+    }
+    form{
+        margin-top: 5%;
+        margin-bottom: 5%;
+        padding: 5%;
+        text-align: center;
+        background-color: rgba(156, 156, 219, 0.646);
+        
+    }
+    .submit{
+        background-color: rgba(219, 175, 92, 0.559);
+    }
+    h2 {
+        text-align: center;
+        margin: 5%;
+        font-family: Calibri, sans-serif;
+    }
+    h3{
+      text-align: center;
+    }
+    .error {
+      display: block;
+      background-color: rgba(241, 146, 146, 0.53);
+      
+    }
+
