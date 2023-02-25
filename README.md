@@ -1,6 +1,5 @@
-# ATMApp
+# ATM App
 Simple React ATM
-<img src="./atm.png" />
 
 >UPDATES:
 > - Switched buttons to drop-down menu
